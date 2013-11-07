@@ -63,6 +63,21 @@
           -58.38066101074218,
           -34.62190760563037
         ]
+      },
+      {
+      "type": "Feature",
+      "properties": {
+        "group": "Xeoinquedos",
+        "twitter": "@xeoinquedos",
+        "web": "http://xeoinquedos.wordpress.com",
+        "mailinglist": "https://lists.osgeo.org/mailman/listinfo/es_norte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2,
+          42.6
+        ]
       }
     }
   ]
